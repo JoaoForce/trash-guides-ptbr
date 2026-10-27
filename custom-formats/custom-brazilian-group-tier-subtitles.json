@@ -4034,6 +4034,15 @@
       "fields": {
         "value": "(?:^|-)cyb3rRunn3r$"
       }
+    },
+    {
+      "name": "Bacate",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)Bacate$"
+      }
     }
   ]
 }
