@@ -643,15 +643,6 @@
       }
     },
     {
-      "name": "NoGroup",
-      "implementation": "ReleaseGroupSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "(?:^|-)NoGroup$"
-      }
-    },
-    {
       "name": "SAMARITANO",
       "implementation": "ReleaseGroupSpecification",
       "negate": false,

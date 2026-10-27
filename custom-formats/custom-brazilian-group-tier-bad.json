@@ -785,6 +785,150 @@
       "fields": {
         "value": "(?:^|-)YTS.MX$"
       }
+    },
+    {
+      "name": "PSA",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)PSA$"
+      }
+    },
+    {
+      "name": "Pahe",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)Pahe$"
+      }
+    },
+    {
+      "name": "GalaxyRG",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)GalaxyRG$"
+      }
+    },
+    {
+      "name": "mHD",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)mHD$"
+      }
+    },
+    {
+      "name": "mSD",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)mSD$"
+      }
+    },
+    {
+      "name": "aXXo",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)aXXo$"
+      }
+    },
+    {
+      "name": "EVO",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)EVO$"
+      }
+    },
+    {
+      "name": "RBB",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)RBB$"
+      }
+    },
+    {
+      "name": "nHD",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)nHD$"
+      }
+    },
+    {
+      "name": "nSD",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)nSD$"
+      }
+    },
+    {
+      "name": "worldmkv",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)worldmkv$"
+      }
+    },
+    {
+      "name": "HDHUB4U",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)HDHUB4U$"
+      }
+    },
+    {
+      "name": "FRDS",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)FRDS$"
+      }
+    },
+    {
+      "name": "FMD",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)FMD$"
+      }
+    },
+    {
+      "name": "FaNGDiNG0",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)FaNGDiNG0$"
+      }
+    },
+    {
+      "name": "PRODJi",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(?:^|-)PRODJi$"
+      }
     }
   ]
 }
